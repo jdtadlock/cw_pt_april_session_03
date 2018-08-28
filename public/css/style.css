@@ -1,0 +1,13 @@
+body {
+  padding: 25px 5%;
+}
+
+#posts {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.post {
+  width: 25%;
+  padding: 15px;
+}
